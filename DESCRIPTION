@@ -1,7 +1,7 @@
 Package: MetaGxOvarian
 Type: Package
 Title: Transcriptomic Ovarian Cancer Datasets
-Version: 1.22.0
+Version: 1.23.0
 Date: `r Sys.date()`
 Authors@R: c(
     person("Michael", "Zon", role=c("aut"), 
